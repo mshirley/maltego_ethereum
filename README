@@ -1,7 +1,6 @@
-```
 pip install canari
 git clone https://github.com/mshirley/maltego_ethereum.git
 cd maltego_ethereum
 canari create-profile
-```
+
 Import ethereum.mtz into maltego
