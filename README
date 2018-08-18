@@ -4,3 +4,7 @@ cd maltego_ethereum
 canari create-profile
 
 Import ethereum.mtz into maltego
+
+Blockchain.info entities should be installed
+
+Block number for Parity Trace Block should be a Phrase entity
