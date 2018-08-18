@@ -8,3 +8,5 @@ Import ethereum.mtz into maltego
 Blockchain.info entities should be installed
 
 Block number for Parity Trace Block should be a Phrase entity
+
+Parity* and Geth* transforms require a local instance of the servers running on localhost:8545
